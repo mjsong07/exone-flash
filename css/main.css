@@ -1,0 +1,64 @@
+body {
+	background-color: #333333;
+	color: #F2F2F2;
+	font-size: 12px;
+	font-family: "微软雅黑";
+	font-weight: bolder;
+}
+
+a {
+	text-decoration: none;
+	color: #F2F2F2;
+}
+
+a:link{
+	color: #F2F2F2;
+	
+}
+a:hover {
+	color: red;
+}
+a:focus {
+	color: #F2F2F2;
+}
+
+.new1{
+	font-size: 12px;
+	text-indent: 5px;
+	height: 20px;
+}
+.newtitle {
+	font-weight: bold;
+	color: #8f6452;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: dashed;
+	border-left-style: none;
+	border-bottom-width: 1px;
+	border-bottom-color: #666666;
+	height: 20px;
+}
+
+.lefttitle {
+	font-weight: bold;
+	color: #8f6452;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: inset;
+	border-left-style: none;
+	border-bottom-width: 1px;
+	border-bottom-color: #7e6d51;
+	height: 80px;
+}
+
+
+input {
+	border: 1px solid #CCCCCC;
+
+} 
+
+
+.STYLE1 {font-size: 14px}
+.STYLE2 {font-size: 18px; }
+
+ 
